@@ -1,0 +1,32 @@
+1.	What is the distribution of traffic stops (Count) by Year, Quarter, Month, Day & time?
+Check what the Peak Days/Hours are. How do these patterns vary by agency or subagency? Analyse seasonal patterns or trends in the data.
+
+2.	What is the distribution of traffic stops (Count) by City &Location?
+Check how many accidents happened with Vehicle Type
+Analyse patterns or trends in the data.
+
+
+3.	Show the average age of vehicles involved in traffic stops/violations by Vehicle Type
+Analyse patterns or trends in the data. That could inform the department about vehicle safety and emissions standards.
+
+4.	Identify correlations of alcohol or drug-related traffic stops/violations, and identify distribution by location or time of day?
+
+
+5.	Identify the pattern and relation b/w the location of a traffic stop and the driver's race, gender?
+Identify areas - State/City/Location that is more likely to result in citations or arrests.
+
+6.	Identify the distribution of traffic stops by agency and subagency. Analyse if there are any disparities in the outcomes of traffic stops/violations.
+
+
+7.	Identify the traffic stops/violations or workdays & weekends or Holidays (Example – New Year) by State/City/Location. Also identify correlations of alcohol or drug-related traffic stops/violations, by the time of day.
+
+8.	Out of the Total violations identify the % distribution by State/City/Location where the driver is arrested or cited.
+
+
+9.	Identify if specific colors or vehicle models are likely to be involved in accidents?
+
+10.	What is the overall trend in the number of violations/traffic stops per year?
+
+
+11.	Create a vehicle age bucket and identify if there is any correlation between the age and the vehicle type that is likely to be involved in accidents?
+12.	Identify top cities and their top locations that are likely to be involved in accidents.
